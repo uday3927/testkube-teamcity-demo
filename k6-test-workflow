@@ -1,7 +1,7 @@
 kind: TestWorkflow
 apiVersion: testworkflows.testkube.io/v1
 metadata:
-  name: simple-k6-workflow
+  name: basic-k6-workflow
   namespace: testkube
   labels:
     docs: example
